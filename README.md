@@ -7,9 +7,10 @@
   - :bulb: [Medium articles](https://medium.com/@canengin757)
   - :pencil2: [Stack Overflow.](https://stackoverflow.com/users/11877599/engin-can)
   - :office: [LinkedIn](https://www.linkedin.com/in/engincan09/)
+  - 📧: [canengin757@gmail.com](canengin757@gmail.com)
+<p align="center"> 
+<a href="https://github.com/engincan09"><img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=engincan09&show_icons=true&bg_color=0d1117&text_color=c8cdd0&title_color=3366ff&icon_color=3366ff&hide_border=true"/></a>
+<a href="https://github.com/engincan09"><img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engincan09&bg_color=0d1117&text_color=c8cdd0&title_color=3366ff&hide_border=true&layout=compact&langs_count=10"/></a>
+  
+</p>
 
-
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=engincan09&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engincan09)](https://github.com/anuraghazra/github-readme-stats)
